@@ -2,7 +2,7 @@ body{
   background-color: rgba(0, 0, 255, 0.7);
 }
 
-#prova{
+.style{
   text-align: center;
   margin-top: 20px;
   font-size: 3rem;

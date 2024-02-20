@@ -18,6 +18,6 @@ const password = firstName + lastName + favouriteColor + favouriteNumber
 document.getElementById('prova').innerHTML = 
 `
 <p>
-${password}
+La tua password è :${password}
 </p>
 `
